@@ -3,4 +3,6 @@ forestay-aws
 forestay-aws-foreign-ns-rbac
 forestay-aws-global
 forestay-aws-helm-chart
+forestay-base-image
+forestay-build-image
 forestay-io
